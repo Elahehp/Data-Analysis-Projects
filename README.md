@@ -1,2 +1,2 @@
 # Excel-Projects
-Pivot tables and visualizations: #pivot-table1.png
+![Bike Sales Pivot Table](https://example.com/my-screenshot.png)
