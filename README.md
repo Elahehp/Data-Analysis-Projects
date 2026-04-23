@@ -13,7 +13,7 @@ I’m building my portfolio to show the projects I created during my data course
 ---
 ## Projects I have done:
 
-### 1:Bike Sales Analysis Project (Pivot Tables & Visualizations)
+### Project 1: Bike Sales Analysis Project (Pivot Tables & Visualizations)
 - The dataset contains information about who is buying bikes, where they live, and how much profit the company is making. It is a great resource for learning how to use Excel Pivot Tables and visualizations to find sales trends.
   
 ### What’s in the data?
@@ -62,7 +62,26 @@ This stacked column chart provides a Sales Summary of total order quantities, hi
 
 [![Pivot Graphic 3](https://raw.githubusercontent.com/Elahehp/Data-Analysis-Projects/main/pivot-graphic3.png)](https://github.com/Elahehp/Data-Analysis-Projects/blob/main/pivot-graphic3.png)
 
+---
+### Project 2: Global Economic Data Preprocessing
+- This project is a comprehensive Data Analysis and Visualization of Global GDP per Capita using Python. It explores economic data from multiple international sources (IMF, World Bank, and the United Nations) to compare wealth distribution across different countries and regions.
+- This project uses Python (Pandas and NumPy) to clean and analyze international economic datasets. The primary goal is to transform raw financial data into a high-quality, "analysis-ready" format. By identifying outliers and cleaning the data, this project ensures that any future visualizations or predictions (like GDP growth trends) aren't skewed by "noisy" or incorrect data points.
 
-[View the Colab project](./Colab.ipynb)
+### Key Features:
+**Data Integration:** Merges and cleans economic estimates from the IMF, World Bank, and UN to provide a multi-perspective view of global GDP.
+
+**Data Preprocessing:** Includes handling missing values, data type conversion, and string normalization (e.g., stripping whitespace from country names) to ensure analysis accuracy.
+
+**Outlier Detection:** Utilizes the Interquartile Range (IQR) method to identify and isolate economic "outliers"—countries with significantly higher GDP per capita compared to global averages, such as Luxembourg, Ireland, and Norway.
+
+**Data Analysis:** Employs libraries like Pandas, Matplotlib, and Seaborn to visualize economic trends and regional disparities.
+
+
+- Language: Python
+
+- Libraries: Pandas (Data Manipulation), NumPy (Numerical Analysis), Seaborn & Matplotlib (Data Visualization)
+
+- Environment: Google Colab 
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elahehp/Data-Analysis-Projects/blob/main/Untitled2.ipynb)
