@@ -57,23 +57,6 @@ I believe that the attention to detail required for a fine-art portrait is the s
 
 ---
 ---
-## 📁 Featured Projects
-
-- 📊 [**Global Bike Sales Analysis**](https://github.com/Elahehp/Bike-Sales-Analysis-Excel)
-  *End-to-end Excel analysis of retail trends and customer demographics.*
-
-- 🤖 [**Customer Segmentation & Profiling**](https://github.com/Elahehp/Customer-Segmentation-Python)
-  *Using Python to group customer behavior for targeted marketing.*
-
-- 📈 [**Financial Performance Dashboard**](https://github.com/Elahehp/Financial-Performance-PowerBI)
-  *Interactive Power BI reporting focused on corporate revenue and DAX modeling.*
-
-- 🗺️ [**Sales Forecasting & Logistics**](https://github.com/Elahehp/Sales-Forecasting-Tableau)
-  *Visualizing supply chain data and future trends using Tableau.*
-
-- 🗄️ [**Inventory Management System**](https://github.com/Elahehp/Inventory-Management-SQL)
-  *Database optimization and complex queries for operational efficiency using SQL.*
----
 ### 📱 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahehpaktinat)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elahehp)
