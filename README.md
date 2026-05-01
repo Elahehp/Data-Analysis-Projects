@@ -6,10 +6,15 @@
 
 ### 📊 Data Analyst in Training
 I’m building my portfolio to show the projects I created during my data course. The course was about transforming raw data into actionable insights using  **Excel**,**Python**, **Power BI**, **Tableau** and **SQL**.
-
-### 🚀 About Me
 - 🔭 I’m currently working on: **Developing Further Technical skills**
-  
+
+### 🎨 Beyond the Data
+When I'm not querying SQL databases or building dashboards, I'm a portrait painter. 
+I believe that the attention to detail required for a fine-art portrait is the same precision needed to identify trends in complex datasets.
+
+| Portrait Study | Detail Work |
+| :---: | :---: |
+| <img src="link-to-painting-1.jpg" width="300" /> | <img src="link-to-painting-2.jpg" width="300" /> |
 
 ### 🛠 Tech Stack
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
