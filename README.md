@@ -11,6 +11,19 @@ I’m building my portfolio to show the projects I created during my data course
 - SQL / MySQL Workbench
 - Tableau / Power BI dashboards
 ---
+
+
+### 🚀 About Me
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **[Tech Stack]**
+- 💬 Ask me about **[Topic]**
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 📊 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elahehp&show_icons=true&theme=radical)
 ## Projects I have done:
 
 ### Project 1: Bike Sales Analysis Project (Pivot Tables & Visualizations)
