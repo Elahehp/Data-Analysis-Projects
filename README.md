@@ -24,7 +24,7 @@ I believe that the attention to detail required for a fine-art portrait is the s
 [![SQL](https://img.shields.io/badge/SQL_Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Elahehp/Inventory-Management-SQL)
 [![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Elahehp/Financial-Performance-PowerBI)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/Elahehp/Sales-Forecasting-Tableau)
-[![Python](https://img.shields.io/badge/Python_Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Elahehp/Customer-Segmentation-Python)
+[![Python](https://img.shields.io/badge/Python_Preprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Elahehp/Global-Economic-Data-Preprocessing)
 
 
 ---
@@ -36,11 +36,19 @@ I believe that the attention to detail required for a fine-art portrait is the s
 
 ---
 
-### 🤖 [Customer Segmentation & Profiling](https://github.com/Elahehp/Customer-Segmentation-Python)
-**The Problem:** High marketing spend with low conversion rates due to "one-size-fits-all" ads.
-**The Solution:** Applied Python (Pandas/Matplotlib) to cluster customers based on purchasing frequency and total spend.
-**Business Impact:** Created 4 distinct customer personas, allowing for targeted 1:1 marketing campaigns.
-> 🔗 [**View Python Notebook**](https://github.com/Elahehp/Customer-Segmentation-Python)
+### 🌍 [Global Economic Data Preprocessing](https://elahehp.github.io/Global-Economic-Data-Preprocessing/)
+**The Problem:** Economic datasets from international sources (IMF, World Bank, UN) are often inconsistent and contain extreme wealth outliers that skew global averages.
+
+**The Solution:** I developed a Python-based preprocessing pipeline in **Google Colab** to:
+- **Normalize Strings:** Standardized country names for 100% accurate data merging.
+- **Statistical Cleaning:** Applied the **Interquartile Range (IQR)** method to isolate high-income outliers.
+- **Data Integration:** Unified three disparate sources into one "analysis-ready" dataset.
+
+**Technical Impact:** Automated the manual cleaning process, ensuring data integrity for future economic forecasting.
+
+> [!TIP]
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elahehp/Global-Economic-Data-Preprocessing/blob/main/Colab.ipynb)
+> 🔗 [**View Technical Site ↗**](https://elahehp.github.io/Global-Economic-Data-Preprocessing/)
 
 ---
 
