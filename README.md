@@ -32,7 +32,6 @@ I believe that the attention to detail required for a fine-art portrait is the s
 
 ### 🚲 [Global Bike Sales Analysis](https://elahehp.github.io/Bike-Sales-Analysis-Excel/)
 **Executive Sales Dashboard & Demographic Analysis**
-> 🔗 [**View Live Portfolio Site ↗**](https://elahehp.github.io/Bike-Sales-Analysis-Excel/)
 
 ---
 
@@ -47,7 +46,6 @@ I believe that the attention to detail required for a fine-art portrait is the s
 **Technical Impact:** Automated the manual cleaning process, ensuring data integrity for future economic forecasting.
 
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elahehp/Global-Economic-Data-Preprocessing/blob/main/Colab.ipynb)
-> 🔗 [**View Technical Site ↗**](https://elahehp.github.io/Global-Economic-Data-Preprocessing/)
 
 ---
 
