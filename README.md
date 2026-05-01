@@ -17,12 +17,14 @@ I believe that the attention to detail required for a fine-art portrait is the s
 | <img src="IMG_1186.jpg" width="300" /> | <img src="IMG_1185.jpg" width="300" /> |
 
 ---
-### 🛠 Tech Stack
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🛠 Technical Stack
+*Click an icon to view the corresponding project repository:*
+
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Elahehp/Bike-Sales-Analysis-Excel)
+[![SQL](https://img.shields.io/badge/SQL_Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Elahehp/Inventory-Management-SQL)
+[![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Elahehp/Financial-Performance-PowerBI)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/Elahehp/Sales-Forecasting-Tableau)
+[![Python](https://img.shields.io/badge/Python_Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Elahehp/Customer-Segmentation-Python)
 
 
 ## 🛠 Tech Stack
@@ -33,6 +35,32 @@ I believe that the attention to detail required for a fine-art portrait is the s
 [![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Elahehp/Inventory-Management-SQL)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Elahehp/Customer-Segmentation-Python)
 
+---
+## 📊 Featured Data Analytics Projects
+
+### 🚲 [Global Bike Sales Analysis](https://github.com/Elahehp/Bike-Sales-Analysis-Excel)
+**The Problem:** Identifying underperforming regional markets and demographic segments.
+**The Solution:** Built a dynamic Excel dashboard using Pivot Tables to segment $5k+$ rows of transactional data.
+**Business Impact:** Pinpointed the "Adult" demographic in the US as the primary revenue driver, suggesting a shift in marketing focus.
+> 🔗 [**View Live Dashboard Preview**](https://github.com/Elahehp/Bike-Sales-Analysis-Excel#analysis-breakdown)
+
+---
+
+### 🤖 [Customer Segmentation & Profiling](https://github.com/Elahehp/Customer-Segmentation-Python)
+**The Problem:** High marketing spend with low conversion rates due to "one-size-fits-all" ads.
+**The Solution:** Applied Python (Pandas/Matplotlib) to cluster customers based on purchasing frequency and total spend.
+**Business Impact:** Created 4 distinct customer personas, allowing for targeted 1:1 marketing campaigns.
+> 🔗 [**View Python Notebook**](https://github.com/Elahehp/Customer-Segmentation-Python)
+
+---
+
+### 📈 [Financial Performance Reporting](https://github.com/Elahehp/Financial-Performance-PowerBI)
+**The Problem:** Management lacked real-time visibility into monthly profit margins and tax liabilities.
+**The Solution:** Developed a Power BI dashboard with complex DAX measures to automate monthly financial summaries.
+**Business Impact:** Reduced manual reporting time by 15 hours per month.
+> 🔗 [**View Interactive Report**](https://github.com/Elahehp/Financial-Performance-PowerBI)
+
+---
 ---
 ## 📁 Featured Projects
 
