@@ -29,9 +29,7 @@ I believe that the attention to detail required for a fine-art portrait is the s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahehpaktinat)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elahehp)
 
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Elahehp&show_icons=true&theme=radical)
-
+---
 ## Projects:
 
 ### Project (1): Bike Sales Analysis Project (Pivot Tables & Visualizations)
