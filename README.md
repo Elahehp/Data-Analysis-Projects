@@ -1,15 +1,23 @@
+<p align="center">
+  <img src="(https://unsplash.com/illustrations/people-working-on-a-computer-with-documents-and-charts-m0hPqbPPrtM)" width="100%" />
+</p>
 
 # Hi, I'm Eli! 👋
 
 ### 📊 Data Analyst in Training
 I’m building my portfolio to show the projects I created during my data course. The course was about transforming raw data into actionable insights using  **Excel**,**Python**, **Power BI**, **Tableau** and **SQL**.
 
+### 🚀 About Me
 - 🔭 I’m currently working on: **Developing Further Technical skills**
+- 💬 Ask me about **[Topic]**
+- 🌱 I’m currently learning **[Tech Stack]**
+- 
 ## What I have learnt:
 - Excel and data basics
 - Python / Google Colab
 - SQL / MySQL Workbench
 - Tableau / Power BI dashboards
+
 ### 🛠 Tech Stack
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,11 +27,6 @@ I’m building my portfolio to show the projects I created during my data course
 
 ---
 
-
-### 🚀 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Tech Stack]**
-- 💬 Ask me about **[Topic]**
 
 
 ### 📊 My GitHub Stats
