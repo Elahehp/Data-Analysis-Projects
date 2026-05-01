@@ -21,7 +21,7 @@ I believe that the attention to detail required for a fine-art portrait is the s
 *Click an icon to view the corresponding project repository:*
 
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://elahehp.github.io/Bike-Sales-Analysis-Excel/)
-[![SQL](https://img.shields.io/badge/SQL_Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Elahehp/Inventory-Management-SQL)
+[![SQL](https://img.shields.io/badge/SQL_Database_Analysis-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://elahehp.github.io/World-SQL-Analysis)
 [![Power Bi](https://img.shields.io/badge/Power_BI_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://elahehp.github.io/Financial-Dashboard-PowerBI)
 [![Tableau](https://img.shields.io/badge/Tableau_Analysis-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://elahehp.github.io/Spotify-Analysis-Tableau)
 [![Python](https://img.shields.io/badge/Python_Preprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://elahehp.github.io/Global-Economic-Data-Preprocessing)
@@ -70,7 +70,17 @@ I believe that the attention to detail required for a fine-art portrait is the s
 
 
 ---
+### 🗄️ [World Demographic SQL Analysis](https://elahehp.github.io/World-SQL-Analysis)
+**The Problem:** Extracting specific insights from a complex relational database requires more than basic filtering; it requires connecting disparate data points across multiple tables.
 
+**The Solution:** I developed a suite of **MySQL scripts** to answer business-critical demographic questions. 
+- **Relational Logic:** Used complex **JOINs** to identify capitals and regional city clusters.
+- **Business Intelligence:** Created ranked reports using **Aggregation functions** to help with market research and urban investment planning.
+- **Advanced Querying:** Applied **Subqueries** to benchmark national economies against global averages.
+
+**Technical Impact:** Demonstrated the ability to navigate relational schemas and provide structured data for large-scale economic analysis.
+
+> 📂 [**View SQL Scripts & Query Results**](https://github.com/Elahehp/World-SQL-Analysis)
 ---
 ### 📱 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahehpaktinat)
