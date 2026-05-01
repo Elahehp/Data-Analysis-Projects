@@ -24,12 +24,21 @@ I believe that the attention to detail required for a fine-art portrait is the s
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
+## 🛠 Tech Stack
+
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Elahehp/Bike-Sales-Analysis-Excel)
+[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Elahehp/Financial-Performance-PowerBI)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/Elahehp/Sales-Forecasting-Tableau)
+[![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Elahehp/Inventory-Management-SQL)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Elahehp/Customer-Segmentation-Python)
+
 ---
 ## 📁 Project Portfolio
 
 | Project | Category | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Global Bike Sales Analysis** | Sales & Retail | Excel | [View Project ↗](https://github.com/Elahehp/Bike-Sales-Analysis) |
+| **Global Bike Sales Analysis** | Sales & Retail | Excel | [View Project ↗](https://github.com/Elahehp/Bike-Sales-Analysis-Excel) |
 | **Customer Segmentation** | Marketing | Python | [View Project ↗](https://github.com/Elahehp/Customer-Segmentation-Python) |
 | **Financial Performance** | Finance | Power BI | [View Project ↗](https://github.com/Elahehp/Financial-Performance-PowerBI) |
 | **Sales Forecasting** | Logistics | Tableau | [View Project ↗](https://github.com/Elahehp/Sales-Forecasting-Tableau) |
