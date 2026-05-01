@@ -23,7 +23,7 @@ I believe that the attention to detail required for a fine-art portrait is the s
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://elahehp.github.io/Bike-Sales-Analysis-Excel/)
 [![SQL](https://img.shields.io/badge/SQL_Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Elahehp/Inventory-Management-SQL)
 [![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Elahehp/Financial-Performance-PowerBI)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/Elahehp/Sales-Forecasting-Tableau)
+[![Tableau](https://img.shields.io/badge/Tableau_Analysis-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://elahehp.github.io/Spotify-Analysis-Tableau)
 [![Python](https://img.shields.io/badge/Python_Preprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://elahehp.github.io/Global-Economic-Data-Preprocessing)
 
 
@@ -49,13 +49,18 @@ I believe that the attention to detail required for a fine-art portrait is the s
 
 ---
 
-### 📈 [Financial Performance Reporting](https://github.com/Elahehp/Financial-Performance-PowerBI)
-**The Problem:** Management lacked real-time visibility into monthly profit margins and tax liabilities.
-**The Solution:** Developed a Power BI dashboard with complex DAX measures to automate monthly financial summaries.
-**Business Impact:** Reduced manual reporting time by 15 hours per month.
-> 🔗 [**View Interactive Report**](https://github.com/Elahehp/Financial-Performance-PowerBI)
+### 🎵 [Spotify Music Features Analysis](https://elahehp.github.io/Spotify-Analysis-Tableau)
+**The Problem:** Raw music data is complex, with multiple overlapping attributes (valence, tempo, acousticness) that are difficult to interpret without visual context.
+
+**The Solution:** Developed a comprehensive **Tableau Dashboard** to analyze track characteristics. I focused on user-driven interactivity, allowing stakeholders to drill down into specific genres and popularity metrics.
+
+**Business Impact:** Provided a clear visual framework for understanding the "DNA" of popular music, aiding in trend forecasting for content curators.
+
+> 📊 [**View Interactive Tableau Site ↗**](https://public.tableau.com/app/profile/elaheh.paktinat/viz/SpotifyFeaturesfinall/Dashboard1)
+> 📂 [**View Documentation Repository**](https://elahehp.github.io/Spotify-Analysis-Tableau)
 
 ---
+
 ---
 ### 📱 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahehpaktinat)
