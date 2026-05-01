@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sayyam-abbasi-m0hPqbPPrtM-unsplash.svg" style="width: 100%; height: 200px; object-fit: cover;" />
+  <img src="sayyam-abbasi-m0hPqbPPrtM-unsplash.svg" style="width: 100%" />
 </p>
 
 # Hi, I'm Eli! 👋
@@ -26,9 +26,9 @@ I’m building my portfolio to show the projects I created during my data course
 ### 📊 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Elahehp&show_icons=true&theme=radical)
 
-## Projects I have done:
+## Projects:
 
-### Project 1: Bike Sales Analysis Project (Pivot Tables & Visualizations)
+### Project (1): Bike Sales Analysis Project (Pivot Tables & Visualizations)
 - The dataset contains information about who is buying bikes, where they live, and how much profit the company is making. It is a great resource for learning how to use Excel Pivot Tables and visualizations to find sales trends.
   
 ### What’s in the data?
@@ -78,7 +78,7 @@ This stacked column chart provides a Sales Summary of total order quantities, hi
 [![Pivot Graphic 3](https://raw.githubusercontent.com/Elahehp/Data-Analysis-Projects/main/pivot-graphic3.png)](https://github.com/Elahehp/Data-Analysis-Projects/blob/main/pivot-graphic3.png)
 
 ---
-### Project 2: Global Economic Data Preprocessing
+### Project (2): Global Economic Data Preprocessing
 - This project is a comprehensive Data Analysis and Visualization of Global GDP per Capita using Python. It explores economic data from multiple international sources (IMF, World Bank, and the United Nations) to compare wealth distribution across different countries and regions.
 - This project uses Python (Pandas and NumPy) to clean and analyze international economic datasets. The primary goal is to transform raw financial data into a high-quality, "analysis-ready" format. By identifying outliers and cleaning the data, this project ensures that any future visualizations or predictions (like GDP growth trends) aren't skewed by "noisy" or incorrect data points.
 
