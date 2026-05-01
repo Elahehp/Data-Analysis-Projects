@@ -22,7 +22,7 @@ I believe that the attention to detail required for a fine-art portrait is the s
 
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://elahehp.github.io/Bike-Sales-Analysis-Excel/)
 [![SQL](https://img.shields.io/badge/SQL_Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Elahehp/Inventory-Management-SQL)
-[![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Elahehp/Financial-Performance-PowerBI)
+[![Power Bi](https://img.shields.io/badge/Power_BI_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://elahehp.github.io/Financial-Dashboard-PowerBI)
 [![Tableau](https://img.shields.io/badge/Tableau_Analysis-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://elahehp.github.io/Spotify-Analysis-Tableau)
 [![Python](https://img.shields.io/badge/Python_Preprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://elahehp.github.io/Global-Economic-Data-Preprocessing)
 
@@ -57,6 +57,17 @@ I believe that the attention to detail required for a fine-art portrait is the s
 **Business Impact:** Provided a clear visual framework for understanding the "DNA" of popular music, aiding in trend forecasting for content curators.
 
 > 📊 [**View Interactive Tableau Site ↗**](https://public.tableau.com/app/profile/elaheh.paktinat/viz/SpotifyFeaturesfinall/Dashboard1)
+
+---
+### 📊 [Corporate Financial Performance Dashboard](https://elahehp.github.io/Financial-Dashboard-PowerBI)
+**The Problem:** Financial reports often feel disconnected across multiple pages, making it difficult for users to maintain context while filtering.
+
+**The Solution:** I developed an iterative **Power BI Dashboard** focusing on user experience (UX) and navigation.
+- **Technical Logic:** Implemented **Sync Slicers** to provide a unified filtering experience across the entire report.
+- **UX Strategy:** Evolved the dashboard through various design phases to maximize clarity for executive stakeholders.
+
+**Technical Impact:** Delivered a synchronized reporting system that ensures 100% data consistency across all visual pages.
+
 
 ---
 
