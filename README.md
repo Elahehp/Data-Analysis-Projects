@@ -24,7 +24,7 @@ I believe that the attention to detail required for a fine-art portrait is the s
 [![SQL](https://img.shields.io/badge/SQL_Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Elahehp/Inventory-Management-SQL)
 [![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Elahehp/Financial-Performance-PowerBI)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/Elahehp/Sales-Forecasting-Tableau)
-[![Python](https://img.shields.io/badge/Python_Preprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Elahehp/Global-Economic-Data-Preprocessing)
+[![Python](https://img.shields.io/badge/Python_Preprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://elahehp.github.io/Global-Economic-Data-Preprocessing)
 
 
 ---
@@ -46,7 +46,6 @@ I believe that the attention to detail required for a fine-art portrait is the s
 
 **Technical Impact:** Automated the manual cleaning process, ensuring data integrity for future economic forecasting.
 
-> [!TIP]
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Elahehp/Global-Economic-Data-Preprocessing/blob/main/Colab.ipynb)
 > 🔗 [**View Technical Site ↗**](https://elahehp.github.io/Global-Economic-Data-Preprocessing/)
 
