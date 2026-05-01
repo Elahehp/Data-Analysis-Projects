@@ -14,8 +14,9 @@ I believe that the attention to detail required for a fine-art portrait is the s
 
 | Portrait Study | Detail Work |
 | :---: | :---: |
-| <img src="link-to-painting-1.jpg" width="300" /> | <img src="link-to-painting-2.jpg" width="300" /> |
+| <img src="IMG_1185.jpg" width="300" /> | <img src="IMG_1186.jpg" width="300" /> | <img src="IMG_1188.jpg" width="300" /> | <img src="IMG_1207.jpg" width="300" /> |
 
+---
 ### 🛠 Tech Stack
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
