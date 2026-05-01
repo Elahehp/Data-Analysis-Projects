@@ -9,8 +9,6 @@ I’m building my portfolio to show the projects I created during my data course
 
 ### 🚀 About Me
 - 🔭 I’m currently working on: **Developing Further Technical skills**
-- 💬 My Linkedin **www.linkedin.com/in/elahehpaktinat**
-- 💬 My Github **https://github.com/Elahehp**
   
 
 ### 🛠 Tech Stack
@@ -21,7 +19,9 @@ I’m building my portfolio to show the projects I created during my data course
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
+### 📱 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahehpaktinat)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elahehp)
 
 ### 📊 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Elahehp&show_icons=true&theme=radical)
