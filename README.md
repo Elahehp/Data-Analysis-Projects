@@ -9,14 +9,9 @@ I’m building my portfolio to show the projects I created during my data course
 
 ### 🚀 About Me
 - 🔭 I’m currently working on: **Developing Further Technical skills**
-- 💬 Ask me about **[Topic]**
+- 💬 Linkedin **www.linkedin.com/in/elahehpaktinat**
 - 🌱 I’m currently learning **[Tech Stack]**
-- 
-## What I have learnt:
-- Excel and data basics
-- Python / Google Colab
-- SQL / MySQL Workbench
-- Tableau / Power BI dashboards
+  
 
 ### 🛠 Tech Stack
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
