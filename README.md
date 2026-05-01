@@ -34,15 +34,22 @@ I believe that the attention to detail required for a fine-art portrait is the s
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Elahehp/Customer-Segmentation-Python)
 
 ---
-## 📁 Project Portfolio
+## 📁 Featured Projects
 
-| Project | Category | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Global Bike Sales Analysis** | Sales & Retail | Excel | [View Project ↗](https://github.com/Elahehp/Bike-Sales-Analysis-Excel) |
-| **Customer Segmentation** | Marketing | Python | [View Project ↗](https://github.com/Elahehp/Customer-Segmentation-Python) |
-| **Financial Performance** | Finance | Power BI | [View Project ↗](https://github.com/Elahehp/Financial-Performance-PowerBI) |
-| **Sales Forecasting** | Logistics | Tableau | [View Project ↗](https://github.com/Elahehp/Sales-Forecasting-Tableau) |
-| **Inventory Management** | Operations | SQL | [View Project ↗](https://github.com/Elahehp/Inventory-Management-SQL) |
+- 📊 [**Global Bike Sales Analysis**](https://github.com/Elahehp/Bike-Sales-Analysis-Excel)
+  *End-to-end Excel analysis of retail trends and customer demographics.*
+
+- 🤖 [**Customer Segmentation & Profiling**](https://github.com/Elahehp/Customer-Segmentation-Python)
+  *Using Python to group customer behavior for targeted marketing.*
+
+- 📈 [**Financial Performance Dashboard**](https://github.com/Elahehp/Financial-Performance-PowerBI)
+  *Interactive Power BI reporting focused on corporate revenue and DAX modeling.*
+
+- 🗺️ [**Sales Forecasting & Logistics**](https://github.com/Elahehp/Sales-Forecasting-Tableau)
+  *Visualizing supply chain data and future trends using Tableau.*
+
+- 🗄️ [**Inventory Management System**](https://github.com/Elahehp/Inventory-Management-SQL)
+  *Database optimization and complex queries for operational efficiency using SQL.*
 ---
 ### 📱 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahehpaktinat)
